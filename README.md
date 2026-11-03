@@ -4,7 +4,7 @@ I build production AI tools by steering agents, then review the output and own t
 
 Business & Entrepreneurship student at the University of Reading, based in Oslo. I direct AI agents to build real things and stay accountable for whether they work.
 
-### Pennbridge Order Desk
+### [Pennbridge Order Desk](https://github.com/Trueballs/pennbridge-order-desk)
 AI purchase-order desk with a human in the loop. Reads orders from email and PDF, extracts them with Gemini, checks every line against a catalogue, and creates an Odoo draft only after a person approves. CI-tested, with honest evaluation on a held-out set.
 
 ### [Vi Lager Kunst](https://vilagerkunst.no)
